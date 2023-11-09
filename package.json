@@ -1,8 +1,8 @@
 {
-  "name": "ping-coming-soon-page",
+  "name": "coming-soon-page",
   "version": "1.0.0",
-  "description": "Ping coming soon page",
-  "web": "./dist/index.html",
+  "description": "coming soon page",
+  "web": "./docs/index.html",
   "targets": {
     "web": {
       "context": "browser",
@@ -13,7 +13,6 @@
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
-  "author": "Alamin",
   "license": "MIT",
   "dependencies": {
     "parcel": "^2.8.3",
